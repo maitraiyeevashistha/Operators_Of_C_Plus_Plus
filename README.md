@@ -5,7 +5,8 @@
 ## Division: ENTC-A3
 ## Title: Understanding Operators and Conditional Statements of C++  ( Tools: MS Visual Studio Code )
 ---
-
+## Aim :
+*To study and implement Operators in C++*
 ##  Overview
 
 In this project explores the use of different **operators** and **conditional statements** in C++. Operators are special symbols that carry out computations and logic, while conditional statements help control the flow of the program based on specific conditions.
