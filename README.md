@@ -1,8 +1,5 @@
 # Basic Operations in C++
 
-## Name: Maitraiyee Vashistha
-## PRN: 24070123057
-## Division: ENTC-A3
 ## Title: Understanding Operators and Conditional Statements of C++  ( Tools: MS Visual Studio Code )
 ---
 ## Aim :
